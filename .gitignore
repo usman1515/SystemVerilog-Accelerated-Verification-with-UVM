@@ -1,0 +1,6 @@
+lab*/*.log
+lab*/csrc/
+lab*/simv
+lab*/simv.daidir/
+lab*/*.key
+lab*/*.h
